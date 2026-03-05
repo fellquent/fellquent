@@ -11,7 +11,6 @@
 * 🐍 Working as a **Python developer**
 * ⚙️ Exploring systems programming with **Rust** and **C**
 * ☕ Also interested in **Java**
-* 🧩 Practicing algorithms and kata on Codewars
 
 ---
 
